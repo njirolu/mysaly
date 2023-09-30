@@ -72,7 +72,7 @@ function Calc({ grossSalary, maritalStatus, dependents }: CalcProps) {
     annualizedSalary,
     POSITION_COST_PERCENTAGE
   );
-  const tax21 = getTax21Percentage(pkp) * pkp - positionCost;
+  const tax21 = pkp > 0 ? getTax21Percentage(pkp) * pkp - positionCost : 0;
   const monthlyIncomeTax = tax21 / 12;
 
   const bpjsHealthCoveredByEmployees = calcBPJSHealth(
