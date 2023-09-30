@@ -1,6 +1,6 @@
   <p align="center">
-  <a href="https://vixaticaicons.vercel.app/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/njirolu/vixatica-icons/main/static/img/logo.svg" alt="Vixaticaicons" width="300">
+  <a href="https://njirolu.github.io/mysaly/" target="_blank">
+    <img src="https://raw.githubusercontent.com/njirolu/mysaly/main/logo.png" alt="MySaly" width="300">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 <p>
 
 <p align="center">
-  <a href="https://vixaticaicons.vercel.app/"><strong>Hitung disini &rarr;</strong></a>
+  <a href="https://njirolu.github.io/mysaly/"><strong>Hitung disini &rarr;</strong></a>
 </p>
 
 ## License
