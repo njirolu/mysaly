@@ -56,7 +56,6 @@ function calcPositionCost(
   positionCostPercentage: number
 ): number {
   let positionCost = annualizedSalary * positionCostPercentage;
-  console.log("calcPositionCost positionCost", positionCost);
   if (positionCost > 6_000_000) {
     positionCost = 6_000_000;
   } else if (positionCost > 500_000) {
